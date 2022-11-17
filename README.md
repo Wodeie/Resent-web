@@ -47,7 +47,7 @@ Stable build: https://resclient.vercel.app/
 
 Development build: https://resclientdev.vercel.app/
 
-FPS Build: https://resclientfps.vercel.app/ (boosts fps)
+FPS Build: https://resclientfps.vercel.app/ (Uses old version of eaglercraft to boost fps, no mods and no texture packs) - Eagler version 22w16
 
 ### Dev build status
 
